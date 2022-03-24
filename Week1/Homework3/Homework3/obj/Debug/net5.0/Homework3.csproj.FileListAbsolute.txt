@@ -1,0 +1,16 @@
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.exe
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.deps.json
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.runtimeconfig.json
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.runtimeconfig.dev.json
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.dll
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\bin\Debug\net5.0\Homework3.pdb
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.csproj.AssemblyReference.cache
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.AssemblyInfo.cs
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.dll
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\refint\Homework3.dll
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.pdb
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\Homework3.genruntimeconfig.cache
+C:\Users\mahsu\Desktop\All\Github_Projeler\CSharp-Bootcamp-Kodluyoruz\Week1\Homework3\Homework3\obj\Debug\net5.0\ref\Homework3.dll
